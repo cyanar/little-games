@@ -1,0 +1,41 @@
+table{
+	 border: 6px ridge #ccc;
+	 border-collapse: collapse;
+	 margin: 0 auto;
+}
+td{
+	 width: 20px;
+	 height: 20px;
+}
+h1{
+	text-align: center;
+}
+#box{
+	border: 1px solid #000;
+	width: 200px;
+	float:left;
+}
+ul,li{
+	list-style:none;
+}
+td.J{
+	background: url(images/0.jpg);
+}
+td.L{
+	background: url(images/1.jpg);
+}
+td.Z{
+	background: url(images/2.jpg);
+}
+td.S{
+	background: url(images/3.jpg);
+}
+td.T{
+	background: url(images/4.jpg);
+}
+td.O{
+	background: url(images/5.jpg);
+}
+td.I{
+	background: url(images/6.jpg);
+}
