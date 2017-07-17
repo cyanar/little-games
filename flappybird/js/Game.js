@@ -96,8 +96,8 @@
             self.ctx.fillStyle = "black";
             self.ctx.font = "16px 黑体";
             self.ctx.textAlign = "left";
-            self.ctx.fillText("帧"+self.frame,20,30);
-            self.ctx.fillText("场景:"+self.scene,20,60);
+            // self.ctx.fillText("帧"+self.frame,20,30);
+            // self.ctx.fillText("场景:"+self.scene,20,60);
           },20)
      }
 })()
