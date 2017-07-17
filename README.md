@@ -3,7 +3,7 @@
 
 <br>
 
- [Tetris](https://cyanar.github.io/little-games/Tetris/index.html)
+ [Tetris](https://cyanar.github.io/little-games/tetris/index.html)
   <br>
  [flappybird](https://cyanar.github.io/little-games/flappybird/index.html)
  <br>
