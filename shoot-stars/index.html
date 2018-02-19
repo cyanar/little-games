@@ -5,7 +5,7 @@
     <title>Document</title>
     <style>
       body{
-        height:600px;
+        height:700px;
         position:relative;
         background:-webkit-linear-gradient(top,#3b3e89,#9fa1d1);
       }
@@ -212,12 +212,12 @@ timer2 = setInterval(function(){
                 clearInterval(timer);
                 $("#ufo").animate({
                     "width":"60px",
-                    "height":"40px",
-                    "left": 1220,
+                    "height":"120px",
+                    "left": 1300,
                     "bottom": 490,
-                    "opacity":0.4,
+                    "opacity":0.3,
                 },2500,function(){
-                    alert("你已经干掉了"+number+"个星星，恭喜你登月成功");
+                    alert("你已经消灭了"+number+"个星星，恭喜你登月成功");
                     clearInterval(timer2);
                     document.body.removeChild(ufo);
                 })
