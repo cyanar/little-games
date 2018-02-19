@@ -89,11 +89,11 @@
      function move(){
         document.onkeydown = function(event){
             if(event.keyCode == 37){
-                 tx = (tx-8)<0?0:(tx-8);
+                 tx = (tx-15)<0?0:(tx-15);
                  ufo.style.left = tx + "px";
             }
             if(event.keyCode == 39){
-                tx = (tx+8)>w?w:(tx+8);
+                tx = (tx+15)>w?w:(tx+15);
                  ufo.style.left = tx + "px";
             }
             if(event.keyCode == 32){
