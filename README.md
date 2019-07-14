@@ -10,3 +10,4 @@
  [gluttnous snake](https://cyanar.github.io/little-games/gluttnous-snake/index.html)
  <br>
  [shoot-stars](https://cyanar.github.io/little-games/shoot-stars/index.html)
+ [waterdrop](https://cyanar.github.io/little-games/waterdrop/index.html)
